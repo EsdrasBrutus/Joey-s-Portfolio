@@ -1,0 +1,70 @@
+/*NAVIGATION*/
+
+ .nav {
+	margin: 0 auto;
+	padding: 20px 20px 14px;	
+	text-align: center;
+}
+
+.nav_list {
+	list-style-type: none;
+	margin: 0;
+	text-decoration: none;
+}
+
+.nav_item {
+	display: inline-block;
+	margin-right: 3.75%;
+	font-size: 28px;
+}
+
+.nav_item:last-child {
+	margin-right: 0;}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+/*HOMEPAGE*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+/*PROJECTS*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+/*ABOUT ME*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+/*CONTACT*/
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
