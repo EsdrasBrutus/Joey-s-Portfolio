@@ -41,6 +41,10 @@
 
 /*PROJECTS*/
 
+.headline{
+  text-align: center;
+}
+
 .portfolio-list--fixed {
 	list-style-type: none;
 	margin: 0 auto;
