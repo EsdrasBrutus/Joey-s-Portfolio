@@ -7,8 +7,17 @@
         display:none !important;
     }
 
-    .picbox{
-       margin: 0 auto;
+    .picbox { 
+      width: 126px; 
+      height: 100px; 
+      background: url(http://i.imgur.com/xUOcczK.png?2) no-repeat; 
+      background-size
+      margin-left: auto;
+      margin-right: auto;
+      vertical-align: middle;
+      margin-top: 200px;
+      margin: 0 auto;
+      
     }
 }
 
@@ -140,15 +149,7 @@ body {
 	}
 
 
-.picbox { 
-  width: 126px; 
-  height: 100px; 
-  background: url(http://i.imgur.com/xUOcczK.png?2) no-repeat; 
-  background-size
-  margin-left: auto;
-  margin-right: auto;
-  vertical-align: middle;
-  margin-top: 200px;
+
 } 
 
  
