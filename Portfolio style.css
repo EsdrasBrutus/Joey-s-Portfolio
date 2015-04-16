@@ -6,6 +6,10 @@
     .animation {
         display:none !important;
     }
+
+    .picbox{
+       margin: 0 auto;
+    }
 }
 
 
@@ -145,7 +149,6 @@ body {
   margin-right: auto;
   vertical-align: middle;
   margin-top: 200px;
-  margin: 0 auto;
 } 
 
  
@@ -154,7 +157,6 @@ body {
   height: 100px; 
   background:
  url(http://i.imgur.com/fnbG5uX.png?1) no-repeat;
- margin: 0 auto;
   }
 
 	.start {
