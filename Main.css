@@ -2,6 +2,7 @@
 
 a{
   text-decoration: none;
+
 }
  .nav {
 	margin: 0 auto;
@@ -18,12 +19,12 @@ a{
 
 .nav_item {
 	display: inline-block;
-	margin-right: 2.50%;
+	margin-right: 2%;
 	font-size: 14px;
 }
 
-.nav_item:last-child {
-	margin-right: 0;}
+/*.nav_item:last-child {
+	margin-right: 0;}*/
 
 @media (min-width: 768px) {
   .nav_item {
