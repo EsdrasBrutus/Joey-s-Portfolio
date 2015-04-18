@@ -41,15 +41,28 @@ a{
   .nav_item {
   display: inline-block;
   margin-right: 3.75%;
-  font-size: 14px;
-}
+  font-size: 18px;
 }
 
+
 @media (min-width: 1024px) {
+  .navi{
+    background-image: url();
+  }
+
   .nav_item {
   display: inline-block;
   margin-right: 3.75%;
-  font-size: 14px;
+  font-size: 20px;
+}
+a {color: black;}
+a:visited { text-decoration: none; color: white; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black }
+}
+a {
+    font-weight: bold;
 }
 }
 
